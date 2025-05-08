@@ -8,3 +8,16 @@ quick launching dashboard for work for my dad
 pip install tkinter
 ```
 - a good cpu
+- and thats all
+
+## now i will show you some features
+- ability to select from modes
+  - standard (clock, calculator, notepad, file explorer, and on-screen keyboard)
+  - screenlimit (like standard but with a screen-time limit)
+  - emoji (one app-emoji copy - paste)
+- funny backgrounds (just see when you open the app)
+- background music go to
+- ```bash
+  https://www.youtube.com/watch?v=9cS3_RTaZyE
+  ```
+### that is all
