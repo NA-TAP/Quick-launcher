@@ -26,4 +26,10 @@ create it with this
 git clone https://github.com/NA-TAP/Quick-launcher.git
 ```
 and it will appear in your user's folder
-### that is all
+
+and it does not open the windows apps it opens custom apps
+### and that is all
+#### and that is all
+##### and that is all
+###### and that is all
+
