@@ -1,7 +1,7 @@
 # Quick-launcher
 quick launching dashboard for work for my dad
 
-## requeirments are:
+## requirements are:
 - git
 - python 3.13 or later
 - after installment put this in command prompt
