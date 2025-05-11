@@ -7,9 +7,13 @@ quick launching dashboard for work for my dad
 ## requirements
 - git
 - python 3.13 or later
-- installation command:
+- repository installation command:
 ```bash
 git clone https://github.com/NA-TAP/Quick-launcher.git
+```
+- another command
+```bash
+pip install tk
 ```
 
 ## also...
