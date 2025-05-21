@@ -25,7 +25,7 @@ notepad = tk.Tk()
 notepad.title("Notepad")
 
 # Set a default font for the text widget
-font_size_16 = ("Arial", 16)
+font_size_16 = ("Courier New", 16)
 
 # Create a frame for buttons
 button_frame = tk.Frame(notepad)
