@@ -4,7 +4,7 @@ quick launching dashboard for work for my dad
 ## features
 - ability to switch between modes
 
-## requirements
+## requirement
 - git
 - python 3.13 or later
 - repository installation command:
