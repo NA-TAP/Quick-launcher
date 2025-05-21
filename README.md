@@ -15,6 +15,7 @@ git clone https://github.com/NA-TAP/Quick-launcher.git
 ```bash
 pip install tk
 ```
+- courier new font
 
 ## also...
 - it does not open windows apps, it opens pre-made apps
