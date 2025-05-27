@@ -20,6 +20,6 @@ pip install tk
 ## also...
 - it does not open windows apps, it opens pre-made apps
 
-that is all
+that is all..
 
   
